@@ -1,6 +1,6 @@
 {
   "name": "@dereje/learnnpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -9,10 +9,8 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "npmtutorial"
+    "url": "https://github.com/Dereje1/learnpm"
   },
   "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
